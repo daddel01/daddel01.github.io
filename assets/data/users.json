@@ -1,0 +1,29 @@
+{
+    "users" : [
+        {
+            "name" : "Hendrik",
+            "pic": "data/profilePictures/Hendrik.jpeg",
+            "password" : "Hendrik123"
+        },
+        {
+            "name": "Lea",
+            "pic": "data/profilePictures/Lea.png",
+            "password": "Lea123"
+        },
+        {
+            "name": "Luca",
+            "pic": "data/profilePictures/Luca.jpeg",
+            "password": "Luca123"
+        },
+        {
+            "name":"Tom",
+            "pic":"data/profilePictures/Tom.jpeg",
+            "password": "Tom123"
+        },
+        {
+            "name":"Max",
+            "pic":"data/profilePictures/Max.jpeg",
+            "password":"Max123"
+        }
+    ]
+}
